@@ -11,4 +11,11 @@ cdk.out
 
 # Lambda dependencies
 .lambda_dependencies*
+.DS_Store
 
+# Terraform
+.env
+.auto.tfvars
+.terraform
+plan
+.terraform.lock.hcl
